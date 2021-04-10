@@ -11,5 +11,3 @@ cur.close()
 conn.commit()
 # close the connection
 conn.close()
-
-print(result)
